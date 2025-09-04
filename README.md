@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hallo, ich bin Nadine. Willkommen auf meiner Seite. 🐙
 
-<!--
-**NadineBock/NadineBock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Was du hier siehst, ist der Startpunkt meiner Reise in die IT, fernab von “nur” Hobby. Ich bin gerade dabei, mich zur Fachinformatikerin für die Sytemintegration umschulen zu lassen, und diese Seite ist mein allerstes öffentliches Projekt, das ich von Grund auf selbst aufsetze. Ein Lernprozess mit allen dazugehörigen Frustmomenten und Erfolgserlebnissen.
 
-Here are some ideas to get you started:
+Als alleinerziehende Mutter von zwei Kindern weiß ich, was es heißt einen Plan zu haben, ihn über den Haufen werfen zu müssen um am Ende trotzdem eine Lösung zu finden. Geduld, Organisation und eine gewisse Hartnäckigkeit sind Teil meines Alltags, und genau das bringe ich mit, wenn ich vor einem technischen Problem sitze.
+Was mich wirklich antreibt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich liebe es, Dingen auf den Grund zu gehen. Zu verstehen, warum etwas funktioniert (oder eben auch nicht). Meine Neugier treibt mich an, mir neue Skriptsprachen anzuschauen oder herauszufinden, wie man ein System zu laufen bringt.
+
+Meine zweite große Leidenschaft ist die Kreativität. Wenn ich nicht am Rechner sitze, male ich oder experimentiere auf Strudel.cc mit Klängen. Für mich ist das kein Widerspruch zur Technik, im Gegenteil: Beides erfordert, aus einzelnen Teilen etwas Ganzes zu bauen und eine Idee umzusetzen.
+Lass uns voneinander lernen
+
+Diese Seite ist mein Logbuch. Hier werde ich meine Projekte und Lernfortschritte teilen. Ich bin keine Expertin, ich bin eine Lernende, die jeden Tag besser werden will.
+
+Wenn du dich in diesem Prozess wiederfindest oder einfach nur Lust auf einen ehrlichen Austausch hast, dann freue ich mich von dir zu hören.
