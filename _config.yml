@@ -2,6 +2,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: daattali/beautiful-jekyll
+theme-dark: auto
 
 title: Portfolio-Webseite von Nadine Bock
 description: "Angehende Fachinformatikerin für Systemintegration"
