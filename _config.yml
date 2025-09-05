@@ -9,3 +9,6 @@ description: "Angehende Fachinformatikerin für Systemintegration"
 author: Nadine Bock
 
 url: "https://nadinebock.github.io"
+
+navbar-links:
+  Über Mich: "/about/
