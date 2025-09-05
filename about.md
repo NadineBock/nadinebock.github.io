@@ -1,3 +1,9 @@
+---
+layout: page
+title: Über Mich
+permalink: /about/
+---
+
 ## Eine digitale Reise
 
 Was du hier siehst, ist der Startpunkt meiner Reise in die IT, fernab von “nur” Hobby. Ich bin gerade dabei, mich zur Fachinformatikerin für die Sytemintegration umschulen zu lassen, und diese Seite ist mein allerstes öffentliches Projekt, das ich von Grund auf selbst aufsetze. Ein Lernprozess mit allen dazugehörigen Frustmomenten und Erfolgserlebnissen.
