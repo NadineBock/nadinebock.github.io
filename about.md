@@ -17,7 +17,7 @@ Meine Neugier treibt mich an, mir neue Skriptsprachen anzuschauen oder herauszuf
 ...ist die Kreativität.
 Wenn ich nicht am Rechner sitze, male ich oder experimentiere auf [Strudel.cc](https://strudel.cc) mit Klängen. Für mich ist das kein Widerspruch zur Technik, im Gegenteil: Beides erfordert, aus einzelnen Teilen etwas Ganzes zu bauen und eine Idee umzusetzen.
 
-### Lass und voneinander lernen
+### Lass uns voneinander lernen
 
 Diese Seite ist mein Logbuch. Hier werde ich meine Projekte und Lernfortschritte teilen.
 
