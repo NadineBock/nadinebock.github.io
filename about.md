@@ -16,6 +16,6 @@ Meine zweite große Leidenschaft ist die Kreativität. Wenn ich nicht am Rechner
 
 ### Lass und voneinander lernen
 
-Diese Seite ist mein Logbuch. Hier werde ich meine Projekte und Lernfortschritte teilen. Ich bin (noch) keine Expertin, ich bin eine Lernende, die jeden Tag besser werden will.
+Diese Seite ist mein Logbuch. Hier werde ich meine Projekte und Lernfortschritte teilen.
 
 Wenn du dich in diesem Prozess wiederfindest oder einfach nur Lust auf einen ehrlichen Austausch hast, dann freue ich mich von dir zu hören.
