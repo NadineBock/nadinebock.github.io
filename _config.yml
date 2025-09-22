@@ -14,5 +14,6 @@ url: "https://nadinebock.github.io"
 navbar-links:
   Über Mich: "/about/"
   Projekte: "/projects/"
+  Spiele: "/games/"
 
 avatar: "/assets/HG1.jpg"
